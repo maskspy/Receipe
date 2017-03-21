@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Foodlist">
+
+        <item> Rosted Chicken </item>
+        <item> Rosted Beef </item>
+        <item> Fried Chicken </item>
+        <item> Turkey </item>
+        <item> Bekata </item>
+
+    </string-array>
+
+    <string-array name="DescList">
+
+        <item> Rosted Chicken 5555555 </item>
+        <item> Rosted Beef 55555555555555</item>
+        <item> Fried Chicken 555555555555 </item>
+        <item> Turkey 555555555555555</item>
+        <item> Bekata 555555555555</item>
+
+    </string-array>
+
+</resources>
